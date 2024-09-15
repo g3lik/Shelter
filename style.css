@@ -12,3 +12,9 @@ ul {
    font-size: xx-large;
 
 }
+
+.home-image {
+    width: 250px;
+border: 1px solid black;
+}
+
