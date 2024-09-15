@@ -4,3 +4,11 @@ body {
     text-align: center;
 }
 
+ul {
+
+   text-align: left;
+   font-weight: bold;
+   color: darkgrey;
+   font-size: xx-large;
+
+}
